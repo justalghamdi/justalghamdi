@@ -6,3 +6,6 @@
 
 [![github](https://img.shields.io/badge/-@justalghamdi-313131?style=flat-square&labelColor=313131&logo=Github&logoColor=white&color=313131)](https://www.github.com/justalghamdi)
 
+[![Reddit](https://img.shields.io/badge/-@justalghamdi-313131?style=flat-square&labelColor=313131&logo=Reddit&logoColor=white&color=313131)](https://www.reddit.com/user/justalghamdi)
+
+
